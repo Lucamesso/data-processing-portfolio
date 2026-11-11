@@ -1,0 +1,36 @@
+order_id,customer_id,order_date,product,quantity,unit_price,country,payment_method
+1001,C001,2026-01-03,Laptop Stand,2.0,29.9,Italy,Credit Card
+1002,C002,2026-01-04,Wireless Mouse,1.0,18.5,Italy,PayPal
+1003,C003,2026-01-05,Keyboard,1.0,45.0,France,Credit Card
+1004,C004,2026-01-06,USB-C Cable,3.0,8.99,Germany,Debit Card
+1005,C005,2026-01-07,Monitor,1.0,189.0,Spain,PayPal
+1006,C006,2026-01-08,Webcam,2.0,39.9,Italy,Credit Card
+1007,C007,2026-01-09,Desk Lamp,1.0,24.5,France,Bank Transfer
+1008,C008,2026-01-10,Headphones,1.0,59.99,Germany,PayPal
+1009,C009,2026-01-11,Laptop Stand,2.0,29.9,Italy,Credit Card
+1010,C010,2026-01-12,Mouse Pad,4.0,6.5,Spain,Debit Card
+1011,C011,2026-01-13,Keyboard,1.0,45.0,Italy,Credit Card
+1012,C012,2026-01-14,USB-C Cable,2.0,8.99,France,PayPal
+1013,C013,2026-01-15,Monitor,1.0,189.0,Germany,Credit Card
+1014,C014,2026-01-16,Webcam,1.0,39.9,Spain,PayPal
+1015,C015,2026-01-17,Desk Lamp,2.0,24.5,Italy,Debit Card
+1016,C016,2026-01-18,Headphones,1.0,59.99,France,Credit Card
+1017,C017,2026-01-19,Mouse Pad,3.0,6.5,Germany,PayPal
+1018,C018,2026-01-20,Laptop Stand,1.0,29.9,Spain,Credit Card
+1019,C019,2026-01-21,Keyboard,2.0,45.0,Italy,Bank Transfer
+1020,C020,2026-01-22,USB-C Cable,5.0,8.99,France,Debit Card
+1021,C021,2026-01-23,Monitor,1.0,189.0,Germany,Credit Card
+1022,C022,2026-01-24,Webcam,2.0,39.9,Spain,PayPal
+1023,C023,2026-01-25,Desk Lamp,1.0,24.5,Italy,Credit Card
+1024,C024,2026-01-26,Headphones,1.0,59.99,France,PayPal
+1025,C025,2026-01-27,Mouse Pad,2.0,6.5,Germany,Debit Card
+1026,C026,2026-01-28,Laptop Stand,-1.0,29.9,Spain,Credit Card
+1027,C027,2026-01-29,Keyboard,1.0,-45.0,Italy,PayPal
+1028,,2026-01-30,USB-C Cable,2.0,8.99,France,Debit Card
+1029,C029,2026-01-31,Monitor,1.0,189.0,Germany,Credit Card
+1030,C030,2026-02-01,Webcam,,39.9,Spain,PayPal
+1031,C031,2026-02-02,Desk Lamp,1.0,,Italy,Credit Card
+1032,C032,2026-02-03,Headphones,1.0,59.99,France,PayPal
+1033,C033,2026-02-04,Mouse Pad,2.0,6.5,Germany,Credit Card
+1034,C034,2026-02-05,Laptop Stand,1.0,29.9,Spain,PayPal
+1035,C035,,Keyboard,1.0,45.0,Italy,Debit Card
